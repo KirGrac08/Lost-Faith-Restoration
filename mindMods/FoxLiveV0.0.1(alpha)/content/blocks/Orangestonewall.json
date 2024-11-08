@@ -1,0 +1,12 @@
+{
+    "name": "Orange stone wall",
+    "deskription": "-",
+    "type": "Wall",
+    "health": 2500,
+    "size": 1,
+    "requirements": [
+        { "item": "Orangestone", "amount": 25}
+    ],
+    "category": "defense",
+    "research": "Thorium Wall"
+}

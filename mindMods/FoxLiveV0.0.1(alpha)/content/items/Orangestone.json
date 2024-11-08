@@ -1,0 +1,9 @@
+{
+    "type": "material",
+    "name": "Orange stone",
+    "description": "Stone for good wall",
+    "hardness": 4,
+    "cost": 2.0,
+    "collor": "336699",
+    "tier": 2
+}
